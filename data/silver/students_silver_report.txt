@@ -1,0 +1,95 @@
+# Silver Layer Report — students
+Rows: 1000000  |  Columns: 42
+
+## Column Types
+Column                                   Type
+---------------------------------------- ---------------
+study_hours                              float64
+attendance                               float64
+assignment_completion                    float64
+midterm_score                            float64
+final_score                              float64
+project_score                            float64
+backlogs                                 int64
+sleep_hours                              float64
+stress                                   float64
+anxiety                                  float64
+depression                               float64
+motivation                               float64
+concentration                            float64
+time_management                          float64
+self_discipline                          float64
+social_media_hours                       float64
+gaming_hours                             float64
+netflix_hours                            float64
+screen_time                              float64
+physical_activity                        float64
+junk_food_frequency                      float64
+caffeine_mg                              float64
+late_night_frequency                     float64
+procrastination_score                    float64
+family_income                            float64
+parental_education_level                 int64
+internet_quality                         float64
+library_visits                           float64
+online_courses_completed                 int64
+part_time_hours                          float64
+peer_study_group                         int64
+relationship_status                      int64
+hostel_student                           int64
+extracurricular_hours                    float64
+phone_unlocks_per_day                    float64
+previous_gpa                             float64
+class_participation                      float64
+weekly_study_sessions                    float64
+group_study_hours                        float64
+financial_stress                         float64
+gpa                                      float64
+performance_level                        str
+
+## Null Counts
+No null values found.
+
+## Descriptive Statistics (numeric columns)
+                                mean         std        min          max
+study_hours                   4.0420      2.2127     0.0000      12.0000
+attendance                   74.8764     12.8929    30.0000     100.0000
+assignment_completion        69.8967     14.6828    20.0000     100.0000
+midterm_score                60.0113     14.9673     0.0000     100.0000
+final_score                  64.8561     17.6064     0.0000     100.0000
+project_score                67.9727     13.8770     0.0000     100.0000
+backlogs                      2.5508      1.6510     0.0000      10.0000
+sleep_hours                   6.4996      0.4356     4.5201       8.7631
+stress                        3.2118      1.7569     1.0000      10.0000
+anxiety                      49.9861     14.9998     0.0000     100.0000
+depression                   44.9915     14.9912     0.0000     100.0000
+motivation                    6.0019      0.9738     1.2482      10.0000
+concentration                 6.0029      1.0966     1.0000      10.0000
+time_management               6.0015      0.9993     1.0000      10.0000
+self_discipline               6.0015      0.9993     1.0000      10.0000
+social_media_hours            3.0149      1.4696     0.0000      10.1186
+gaming_hours                  2.0099      0.9797     0.0000       6.7457
+netflix_hours                 2.0099      0.9797     0.0000       6.7457
+screen_time                   7.0348      3.4290     0.0000      23.6100
+physical_activity             3.9986      0.9998     0.0000       8.8425
+junk_food_frequency           3.0018      0.9985     0.0000       7.0000
+caffeine_mg                 182.1618     27.4549    38.9781     306.3714
+late_night_frequency          2.0099      0.9797     0.0000       6.7457
+procrastination_score         5.0040      1.6576     1.0000      10.0000
+family_income             25460.3536  14787.6127  1771.0101  308907.7200
+parental_education_level      2.5014      1.0328     0.0000       5.0000
+internet_quality              5.0011      1.0002     1.0000      10.0000
+library_visits                2.0104      0.9814     0.0000       7.0000
+online_courses_completed      0.9633      1.2079     0.0000       9.0000
+part_time_hours               4.9999      1.6117     0.0000      12.8276
+peer_study_group              0.5007      0.5000     0.0000       1.0000
+relationship_status           0.3092      0.4622     0.0000       1.0000
+hostel_student                0.4999      0.5000     0.0000       1.0000
+extracurricular_hours         2.9999      0.9985     0.0000       7.5315
+phone_unlocks_per_day        60.0688     19.8842    10.0000     154.9142
+previous_gpa                  6.0011      1.4967     0.0000      10.0000
+class_participation           5.0086      1.7136     1.0000      10.0000
+weekly_study_sessions         3.0023      1.0002     0.0000       8.0627
+group_study_hours             2.5112      1.4155     0.0000       8.0627
+financial_stress              4.9985      1.3403     1.0000      10.0000
+gpa                           0.8312      0.2953     0.0000       2.0091

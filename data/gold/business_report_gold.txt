@@ -1,0 +1,54 @@
+GOLD LAYER — BUSINESS QUESTIONS REPORT
+============================================================
+
+============================================================
+  Q1 — Average GPA by Performance Level
+============================================================
+performance_level  total_students  avg_gpa  avg_final_score  avg_midterm_score
+              Low          998442     0.83            64.91              60.05
+          unknown            1558     0.00            31.94              32.41
+
+============================================================
+  Q2 — Lifestyle Impact on GPA
+============================================================
+performance_level  avg_stress  avg_sleep_hours  avg_screen_time  avg_social_media_hours  avg_motivation
+          unknown        5.05             5.76            10.38                    4.45            3.94
+              Low        3.21             6.50             7.03                    3.01            6.01
+
+============================================================
+  Q3 — Academic Habits by Performance Level
+============================================================
+performance_level  avg_study_hours  avg_attendance  avg_assignment_completion  avg_procrastination  avg_backlogs
+              Low             4.05           74.92                      69.93                 5.00          2.55
+          unknown             0.42           48.57                      45.67                 7.56          5.98
+
+============================================================
+  Q4 — Financial Background vs GPA
+============================================================
+income_group  parental_education_level  avg_gpa  avg_final_score  total_students
+ High Income                         0     0.68            56.24            1901
+ High Income                         1     0.75            60.11           21829
+ High Income                         2     0.80            63.35           90644
+ High Income                         3     0.86            66.59          135943
+ High Income                         4     0.92            69.73           73926
+ High Income                         5     0.98            73.17           15757
+  Low Income                         0     0.68            56.37           15440
+  Low Income                         1     0.74            59.88           72136
+  Low Income                         2     0.80            63.12          132096
+  Low Income                         3     0.86            66.33           87376
+  Low Income                         4     0.91            69.53           21183
+  Low Income                         5     0.97            73.01            1769
+  Mid Income                         0     0.69            56.25            5355
+  Mid Income                         1     0.75            60.06           41436
+  Mid Income                         2     0.80            63.34          119021
+  Mid Income                         3     0.86            66.47          117546
+  Mid Income                         4     0.92            69.68           41396
+  Mid Income                         5     0.98            73.01            5246
+
+============================================================
+  Q5 — Top 10% vs Bottom 10% Student Profile
+============================================================
+     group  students  avg_gpa  avg_study_hours  avg_attendance  avg_procrastination  avg_stress  avg_sleep  avg_motivation
+   Top 10%    100000     1.35             7.33           93.15                 3.33        3.12       6.79            7.09
+Bottom 10%    100000     0.32             1.11           56.31                 6.65        3.47       6.19            4.89
+

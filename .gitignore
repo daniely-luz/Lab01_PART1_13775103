@@ -1,0 +1,8 @@
+.venv/
+.env
+
+# Generated artifacts
+*.parquet
+
+# OS
+.DS_Store
