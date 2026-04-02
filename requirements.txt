@@ -1,0 +1,7 @@
+kagglehub[pandas-datasets]
+pandas
+sqlalchemy
+psycopg2-binary
+python-dotenv
+pyarrow
+matplotlib
